@@ -1,0 +1,28 @@
+[1mdiff --git a/p1.html b/p1.html[m
+[1mindex 1baedc6..da9348a 100644[m
+[1m--- a/p1.html[m
+[1m+++ b/p1.html[m
+[36m@@ -1,5 +1,7 @@[m
+ <html>[m
+ <head><title>welcome</title></head>[m
+[31m-<body><center><h1>welcome to project</h1></center>[m
+[32m+[m[32m<body><center><h1>welcome to project</h1>[m
+[32m+[m[32m<h2>we are learning git and github</h2>[m
+[32m+[m[32m</center>[m
+ </body>[m
+ </html>[m
+\ No newline at end of file[m
+[1mdiff --git a/p2.html b/p2.html[m
+[1mindex 67525c4..1a6a6ba 100644[m
+[1m--- a/p2.html[m
+[1m+++ b/p2.html[m
+[36m@@ -1,5 +1,7 @@[m
+ <html>[m
+ <head><title>welcome</title></head>[m
+[31m-<body><center><h1>welcome to project p2</h1></center>[m
+[32m+[m[32m<body><center><h1>welcome to project p2</h1>[m
+[32m+[m[32m<button>click here</button>[m
+[32m+[m[32m</center>[m
+ </body>[m
+ </html>[m
+\ No newline at end of file[m
